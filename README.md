@@ -97,6 +97,8 @@ If you're wondering why I'm not very active on GitHub lately, it's because I'm w
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rmarku&layout=compact&theme=onedark&hide_border=true)
 
+[![](https://visitcount.itsvg.in/api?id=rmarku&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 [website]: https://www.marku.me
 [Wilab]: https://www.wilab.io
 [youtube]: https://www.youtube.com/c/Mart%C3%ADnMarcucci
