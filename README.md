@@ -22,6 +22,7 @@ I love teaching programming and hardware design with an emphasis on patterns and
 
 ## 🌐 Socials:
 
+[![KeyOxide](https://img.shields.io/badge/keyoxide-6855c3?style=plastic&logo=keyoxide&logoColor=white)][keyoxide]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)][linkedin]
 [![Twitter](https://img.shields.io/badge/Twitter-1877F2?style=plastic&logo=twitter&logoColor=white)][twitter]
 [![E-Mail](https://img.shields.io/badge/Email-D4413A?style=plastic&logo=gmail&logoColor=white)][mail]
@@ -107,3 +108,4 @@ If you're wondering why I'm not very active on GitHub lately, it's because I'm w
 [mail]: mailto:rmarku@gmail.com
 [telegram]: https://telegram.me/rmarku
 [gitlab]: https://gitlab.com/rmarku
+[keyoxide]: https://keyoxide.org/0C9D739CFB11894A919B19765DE6B1A2DD691C0F
