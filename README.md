@@ -1,6 +1,6 @@
 # Hi there, I'm Martín - aka [rmarku][website] 👋
 
-- 🔭 I’m currently working at [Wilab][Wilab]
+- 🔭 I’m currently working at [Wilab][centari-app]
 - 🌱 I'm a Husband, Father, Developer, and Teacher!
 - ⚡ Fun fact: 3D printer enthusiast
 - 🔭 Looking for new projects
@@ -33,13 +33,10 @@ I love teaching programming and hardware design with an emphasis on patterns and
 
 ### Languages
 
-![C](https://img.shields.io/badge/c-00599C.svg?style=plastic&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-00599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/go-00ADD8.svg?style=plastic&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=plastic&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=plastic&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-000000.svg?style=plastic&logo=rust&logoColor=white)
 
 ### Front End
 
@@ -53,11 +50,9 @@ I love teaching programming and hardware design with an emphasis on patterns and
 ### Back End
 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-404d59.svg?style=plastic&logo=express&logoColor=61DAFB)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101)
 ![Postgres](https://img.shields.io/badge/postgres-316192.svg?style=plastic&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-DD0031.svg?style=plastic&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-00f.svg?style=plastic&logo=mysql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E.svg?style=plastic&logo=nestjs&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=plastic&logo=elasticsearch)
@@ -71,8 +66,6 @@ I love teaching programming and hardware design with an emphasis on patterns and
 ![Docker](https://img.shields.io/badge/docker-0db7ed.svg?style=plastic&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-F66F3C.svg?style=plastic&logo=argo&logoColor=white)
-![Rancher](https://img.shields.io/badge/Rancher-2350F7.svg?style=plastic&logo=rancher&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
 
 ### Other Tools
 
@@ -89,7 +82,7 @@ I love teaching programming and hardware design with an emphasis on patterns and
 ## Stats
 
 If you're wondering why I'm not very active on GitHub lately, it's because I'm working on **[GitLab][gitlab]**
-
+<!--
 ![rmarku GitHub/GitLab Merged Contributions](https://image.thum.io/get/width/1200/fullpage/maxAge/24/wait/2/noanimate/https://contra-psi.vercel.app/?githubUsername=rmarku&gitlabUsername=rmarku)
 
 ![trophys](https://github-profile-trophy.vercel.app/?username=rmarku&theme=onedark&no-frame=true&no-bg=true)
@@ -99,9 +92,9 @@ If you're wondering why I'm not very active on GitHub lately, it's because I'm w
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rmarku&layout=compact&theme=onedark&hide_border=true)
 
 [![](https://visitcount.itsvg.in/api?id=rmarku&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
+-->
 [website]: https://www.marku.me
-[Wilab]: https://www.wilab.io
+[Centari]: https://www.centari.com/
 [youtube]: https://www.youtube.com/c/Mart%C3%ADnMarcucci
 [linkedin]: https://linkedin.com/in/martinmarcucci
 [twitter]: https://www.twitter.com/rmarku/
